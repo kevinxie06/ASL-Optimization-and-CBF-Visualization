@@ -21,21 +21,22 @@ This repository contains the code and installation package for an application I 
 
 To install the app, click [here](https://github.com/kevineix/ASL-Optimization-and-CBF-Visualization/blob/main/App_Installer.mlappinstall) and then click on "View raw." When prompted, click "Install."
 
-<img width="320" alt="App Install Prompt" src="https://github.com/kevineix/ASL-Optimization-and-CBF-Visualization/assets/135569406/681f2cea-7a20-4521-9f8e-ab60088ae092">
+<img width="320" alt="App Install Prompt" src="https://github.com/kevineix/ASL-Optimization-and-CBF-Visualization/assets/135569406/d61ebf1e-e577-401a-ae35-12527ffc31ee">
 
 After you have installed the app, it will be located in "Apps" on your MATLAB window. To open the app, simply click on the Icon.
 
-<img width="495" alt="App Location" src="https://github.com/kevineix/ASL-Optimization-and-CBF-Visualization/assets/135569406/5cc0101e-930f-434c-8d98-9634efb7d40f">
+<img width="495" alt="App Location" src="https://github.com/kevineix/ASL-Optimization-and-CBF-Visualization/assets/135569406/a872429a-b466-42f5-9072-60a0f6b5062c">
+
 
 ### Download Necessary [Functions](https://github.com/kevineix/ASL-Optimization-and-CBF-Visualization/tree/main/toolbox)
 
 After you have downloaded the application into MATLAB, you will need to download several functions to go along with it.
 
-<img width="1465" alt="Download Toolbox Functions" src="https://github.com/kevineix/ASL-Optimization-and-CBF-Visualization/assets/135569406/e7275ec3-520d-4adf-9073-913d266427fc">
+<img width="1465" alt="Download Toolbox Functions" src="https://github.com/kevineix/ASL-Optimization-and-CBF-Visualization/assets/135569406/91153e88-fdf3-4ce7-9c29-e5dff0825192">
 
 Download every file located inside ["toolbox."](https://github.com/kevineix/ASL-Optimization-and-CBF-Visualization/tree/main/toolbox) Be sure to organize all the functions into a new folder, and then set it as the "Current Folder" on MATLAB.
 
-<img width="217" alt="Current Folder" src="https://github.com/kevineix/ASL-Optimization-and-CBF-Visualization/assets/135569406/eb03d9e2-9d5a-4ebc-865a-309427c22e59">
+<img width="567" alt="Changing Folder" src="https://github.com/kevineix/ASL-Optimization-and-CBF-Visualization/assets/135569406/06f2de1e-2151-4294-b0b7-76a13d23066a">
 
 ### Organizing Data
 
