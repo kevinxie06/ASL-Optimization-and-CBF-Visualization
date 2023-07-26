@@ -8,18 +8,18 @@ This repository contains the code and installation package for an application I 
 ## Key Features
   - Intuitive and User-Friendly Interface
   - Streamlined Data Preparation Process
-  - Accurate CBF Visualization
-  - Multiple Visualization Options
+  - Interactive Masking for Accurate CBF Visualization
+  - Comprehensive Display Options
 
 ### Toolbox
-  - The functions used within the app can be found in ‘scripts’
+  - The functions used within the app can be found in ‘toolbox’
   - Optimizes ASL_Preparation and ASL_CBF functions
   - Utilizes spm8 library
 
 ## Getting Started
 ### [Installing](https://github.com/kevineix/ASL-Optimization-and-CBF-Visualization/tree/main/Install) the App
 
-To install the app, click [here](https://github.com/kevineix/ASL-Optimization-and-CBF-Visualization/tree/main/Install) and then click on "AppInstaller.mlappinstall." When prompted, click "Install."
+To install the app, click [here](https://github.com/kevineix/ASL-Optimization-and-CBF-Visualization/blob/main/App_Installer.mlappinstall) and then click on "AppInstaller.mlappinstall." When prompted, click "Install."
 
 <img width="320" alt="App Install Prompt" src="https://github.com/kevineix/ASL-Optimization-and-CBF-Visualization/assets/135569406/681f2cea-7a20-4521-9f8e-ab60088ae092">
 
@@ -27,12 +27,12 @@ After you have installed the app, it will be located in "Apps" on your MATLAB wi
 
 <img width="495" alt="App Location" src="https://github.com/kevineix/ASL-Optimization-and-CBF-Visualization/assets/135569406/5cc0101e-930f-434c-8d98-9634efb7d40f">
 
-### Download Necessary [Functions](https://github.com/kevineix/ASL-Optimization-and-CBF-Visualization/tree/main/scripts)
+### Download Necessary [Functions](https://github.com/kevineix/ASL-Optimization-and-CBF-Visualization/tree/main/toolbox)
 After you have downloaded the application into MATLAB, you will need to download several functions to go along with it.
 
 <img width="1461" alt="Download" src="https://github.com/kevineix/ASL-Optimization-and-CBF-Visualization/assets/135569406/b34f0749-eb11-4cd2-b06d-b4def64611c8">
 
-Download every file located inside ["scripts."](https://github.com/kevineix/ASL-Optimization-and-CBF-Visualization/tree/main/scripts) Be sure to organize all the functions into a new folder, and then set it as the "Current Folder" on MATLAB.
+Download every file located inside ["toolbox."](https://github.com/kevineix/ASL-Optimization-and-CBF-Visualization/tree/main/toolbox) Be sure to organize all the functions into a new folder, and then set it as the "Current Folder" on MATLAB.
 
 <img width="217" alt="Current Folder" src="https://github.com/kevineix/ASL-Optimization-and-CBF-Visualization/assets/135569406/eb03d9e2-9d5a-4ebc-865a-309427c22e59">
 
