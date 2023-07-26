@@ -3,7 +3,7 @@ By: Kevin Xie
 
 MATLAB Version: 9.14.0.2286388 (R2023a) Update 3
 
-This repository contains the code and installation package for an application I designed to assist in the preparation and visualization of CBF images.
+This repository contains the code and installation package for an application I designed to assist in the preparation and visualization of MRI images.
 
 ## Key Features
   - Intuitive and User-Friendly Interface
