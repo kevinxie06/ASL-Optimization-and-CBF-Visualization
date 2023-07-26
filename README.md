@@ -19,7 +19,7 @@ This repository contains the code and installation package for an application I 
 ## Getting Started
 ### [Installing](https://github.com/kevineix/ASL-Optimization-and-CBF-Visualization/blob/main/App_Installer.mlappinstall) the App
 
-To install the app, click [here](https://github.com/kevineix/ASL-Optimization-and-CBF-Visualization/blob/main/App_Installer.mlappinstall) and then click on "App_Installer.mlappinstall." When prompted, click "Install."
+To install the app, click [here](https://github.com/kevineix/ASL-Optimization-and-CBF-Visualization/blob/main/App_Installer.mlappinstall) and then click on "View raw." When prompted, click "Install."
 
 <img width="320" alt="App Install Prompt" src="https://github.com/kevineix/ASL-Optimization-and-CBF-Visualization/assets/135569406/681f2cea-7a20-4521-9f8e-ab60088ae092">
 
