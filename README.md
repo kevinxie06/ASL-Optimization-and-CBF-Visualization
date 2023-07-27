@@ -16,12 +16,12 @@ This repository contains the code and installation package for an application I 
   - Optimizes ASL_Preparation and ASL_CBF functions
   - Utilizes spm8 library
 
-## Getting Started
+## **Getting Started**
 ### [Installing](https://github.com/kevineix/ASL-Optimization-and-CBF-Visualization/blob/main/App_Installer.mlappinstall) the App
 
 To install the app, click [here](https://github.com/kevineix/ASL-Optimization-and-CBF-Visualization/blob/main/App_Installer.mlappinstall) and then click on "View raw." When prompted, click "Install."
 
-<img width="320" alt="App Install Prompt" src="https://github.com/kevineix/ASL-Optimization-and-CBF-Visualization/assets/135569406/d61ebf1e-e577-401a-ae35-12527ffc31ee">
+<img width="280" alt="App Install Prompt" src="https://github.com/kevineix/ASL-Optimization-and-CBF-Visualization/assets/135569406/d61ebf1e-e577-401a-ae35-12527ffc31ee">
 
 After you have installed the app, it will be located in "Apps" on your MATLAB window. To open the app, simply click on the Icon.
 
@@ -46,7 +46,7 @@ If you have data, make sure to organize each scan into different folders. You ma
 
 -
   
-## App Preview
+## **App Preview**
 ### Home Screen
 The home screen simplifies the data preparation process into two button clicks. From this screen, users may also access various visualization tools.
 
