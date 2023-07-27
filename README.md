@@ -48,17 +48,17 @@ If you have data, make sure to organize each scan into different folders. You ma
 ### Home Screen
 The home screen simplifies the data preparation process into two button clicks. From this screen, users may also access various visualization tools.
 
-<img width="300" height = "300" alt="Home Screen Demo" src="https://github.com/kevineix/ASL-Optimization-and-CBF-Visualization/assets/135569406/519b02ba-fdd6-429a-a1f1-e451010ab4bc">
+<img width="350" alt="Home Screen Demo" src="https://github.com/kevineix/ASL-Optimization-and-CBF-Visualization/assets/135569406/519b02ba-fdd6-429a-a1f1-e451010ab4bc">
 
 ### Mask
 This screen allows users to hand-draw regions of interest. These masks will be saved and then used to display CBF images, reducing noise and allowing for more accurate analysis.
 
-<img width="300" height = "300" alt="Mask Example" src="https://github.com/kevineix/ASL-Optimization-and-CBF-Visualization/assets/135569406/f90f82e8-ed24-41d9-a2ec-5498e74f1dd3">
+<img width="350" alt="Mask Example" src="https://github.com/kevineix/ASL-Optimization-and-CBF-Visualization/assets/135569406/f90f82e8-ed24-41d9-a2ec-5498e74f1dd3">
 
 ### Display Options
 The app also provides a variety of display options. All images displayed within the app can be saved, cropped, etc.
 
-<img width="300" height = "300" alt="Display Options Example" src="https://github.com/kevineix/ASL-Optimization-and-CBF-Visualization/assets/135569406/4bb1798b-3985-48c0-86b1-77385c6d38cf">
+<img width="350" alt="Display Options Example" src="https://github.com/kevineix/ASL-Optimization-and-CBF-Visualization/assets/135569406/4bb1798b-3985-48c0-86b1-77385c6d38cf">
 
 -
 -
