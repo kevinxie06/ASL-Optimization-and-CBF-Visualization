@@ -44,6 +44,12 @@ If you have data, make sure to organize each scan into different folders. You ma
 
 ***After completing these steps, the MATLAB application will be ready for use.***
 
+### Other Methods
+Another method is to directly [download the applications code](https://github.com/kevineix/ASL-Optimization-and-CBF-Visualization/blob/main/ASL_ProjectCode.m) and run the script (.m) in the "Editor" Tab. 
+
+***However, you still have to download the necessary files from the toolbox***
+
+-
 -
   
 ## **App Preview**
