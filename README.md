@@ -58,7 +58,8 @@ Another method is to directly [download the applications code](https://github.co
 ### Home Screen
 The home screen simplifies the data preparation process into two button clicks. From this screen, users may also access various visualization tools.
 
-<img width="518" alt="Home Screen Demo" src="https://github.com/kevineix/ASL-Optimization-and-CBF-Visualization/assets/135569406/519b02ba-fdd6-429a-a1f1-e451010ab4bc">
+<img width="540" alt="ASL Home Screen" src="https://github.com/kevineix/ASL-Optimization-and-CBF-Visualization/assets/135569406/19d1d919-b578-4959-acda-443ca9950f2d">
+
 
 ### Mask
 This screen allows users to hand-draw regions of interest. These masks will be saved and then used to display CBF images, reducing noise and allowing for more accurate analysis.
