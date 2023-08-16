@@ -58,7 +58,8 @@ Another method is to directly [download the applications code](https://github.co
 ### Home Screen
 The home screen simplifies the data preparation process into two button clicks. From this screen, users may also access various visualization tools.
 
-<img width="540" alt="ASL Home Screen" src="https://github.com/kevineix/ASL-Optimization-and-CBF-Visualization/assets/135569406/19d1d919-b578-4959-acda-443ca9950f2d">
+
+<img width="580" alt="ASL Home 2" src="https://github.com/kevineix/ASL-Optimization-and-CBF-Visualization/assets/135569406/eb942190-ce5b-457e-a074-4c825a0dae53">
 
 
 ### Mask
