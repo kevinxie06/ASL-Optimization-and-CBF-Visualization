@@ -42,7 +42,7 @@ Download every file located inside ["toolbox."](https://github.com/kevineix/ASL-
 
 ### Organizing Data
 
-If you have data, make sure to organize each scan into different folders. You may also use and [download example data.](https://github.com/kevineix/ASL-Optimization-and-CBF-Visualization/blob/main/SampleData.zip) Once you have downloaded the zip file, make sure to unzip it.
+If you have data, make sure to organize each scan into different folders. You may also use and [download example data.](https://github.com/kevineix/ASL-Optimization-and-CBF-Visualization/blob/main/Sample%20Data.zip) Once you have downloaded the zip file, make sure to unzip it.
 
 ***After completing these steps, the MATLAB application will be ready for use.***
 
